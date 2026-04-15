@@ -9,8 +9,7 @@ A lightweight, persistent To-Do web application built with Python and Flask. Fea
 🗑️ Delete tasks with a confirmation prompt
 🔍 Filter by All / Pending / Done / High Priority / Overdue
 ⚠️ Overdue tasks are automatically highlighted in red
-💾 Tasks are persisted to todo_data.json — survive restarts
-🌐 Accessible from your browser at http://localhost:5000
+
 
 
 📁 Project Structure

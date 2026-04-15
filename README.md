@@ -15,7 +15,7 @@ A lightweight, persistent To-Do web application built with Python and Flask. Fea
 
 📁 Project Structure
 todo-app/
-├── app.py              # Flask web application            
-├── requirements.txt    # Python dependencies
-├── Dockerfile          # Docker container config
-└── README.md
+    app.py              # Flask web application            
+    requirements.txt    # Python dependencies
+    Dockerfile          # Docker container config
+    README.md
